@@ -1,1 +1,1 @@
-# LeetCode-Dai-yChallenge
+# LeetCode-DailyChallenge
